@@ -1,0 +1,37 @@
+﻿  main.cpp
+c:\users\maxko\onedrive\documents\svn\lab 2\lab 2\main.cpp(62): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\maxko\onedrive\documents\svn\lab 2\lab 2\main.cpp(63): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\maxko\onedrive\documents\svn\lab 2\lab 2\main.cpp(11): warning C4778: 'printf' : unterminated format string '%h\n'
+c:\users\maxko\onedrive\documents\svn\lab 2\lab 2\main.cpp(11): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\maxko\onedrive\documents\svn\lab 2\lab 2\main.cpp(11): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\maxko\onedrive\documents\svn\lab 2\lab 2\main.cpp(12): warning C4778: 'printf' : unterminated format string '%l\n'
+c:\users\maxko\onedrive\documents\svn\lab 2\lab 2\main.cpp(12): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\maxko\onedrive\documents\svn\lab 2\lab 2\main.cpp(12): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\maxko\onedrive\documents\svn\lab 2\lab 2\main.cpp(13): warning C4778: 'printf' : unterminated format string '%ll\n'
+c:\users\maxko\onedrive\documents\svn\lab 2\lab 2\main.cpp(13): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\maxko\onedrive\documents\svn\lab 2\lab 2\main.cpp(13): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\maxko\onedrive\documents\svn\lab 2\lab 2\main.cpp(16): warning C4778: 'printf' : unterminated format string '%L\n'
+c:\users\maxko\onedrive\documents\svn\lab 2\lab 2\main.cpp(16): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\maxko\onedrive\documents\svn\lab 2\lab 2\main.cpp(16): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\maxko\onedrive\documents\svn\lab 2\lab 2\main.cpp(17): warning C4778: 'printf' : unterminated format string '%h\n'
+c:\users\maxko\onedrive\documents\svn\lab 2\lab 2\main.cpp(17): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\maxko\onedrive\documents\svn\lab 2\lab 2\main.cpp(17): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\maxko\onedrive\documents\svn\lab 2\lab 2\main.cpp(19): warning C4778: 'printf' : unterminated format string '%l\n'
+c:\users\maxko\onedrive\documents\svn\lab 2\lab 2\main.cpp(19): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\maxko\onedrive\documents\svn\lab 2\lab 2\main.cpp(19): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\maxko\onedrive\documents\svn\lab 2\lab 2\main.cpp(20): warning C4778: 'printf' : unterminated format string '%ll\n'
+c:\users\maxko\onedrive\documents\svn\lab 2\lab 2\main.cpp(20): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\maxko\onedrive\documents\svn\lab 2\lab 2\main.cpp(20): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\maxko\onedrive\documents\svn\lab 2\lab 2\main.cpp(27): warning C4477: 'printf' : format string '%lld' requires an argument of type '__int64', but variadic argument 1 has type 'int'
+  c:\users\maxko\onedrive\documents\svn\lab 2\lab 2\main.cpp(27): note: consider using '%d' in the format string
+c:\users\maxko\onedrive\documents\svn\lab 2\lab 2\main.cpp(28): warning C4477: 'printf' : format string '%llx' requires an argument of type 'unsigned __int64', but variadic argument 1 has type 'int'
+  c:\users\maxko\onedrive\documents\svn\lab 2\lab 2\main.cpp(28): note: consider using '%x' in the format string
+c:\users\maxko\onedrive\documents\svn\lab 2\lab 2\main.cpp(58): warning C4477: 'printf' : format string '%lld' requires an argument of type '__int64', but variadic argument 1 has type 'int'
+  c:\users\maxko\onedrive\documents\svn\lab 2\lab 2\main.cpp(58): note: consider using '%d' in the format string
+c:\users\maxko\onedrive\documents\svn\lab 2\lab 2\main.cpp(59): warning C4477: 'printf' : format string '%lld' requires an argument of type '__int64', but variadic argument 1 has type 'int'
+  c:\users\maxko\onedrive\documents\svn\lab 2\lab 2\main.cpp(59): note: consider using '%d' in the format string
+c:\users\maxko\onedrive\documents\svn\lab 2\lab 2\main.cpp(3): warning C4100: 'argv': unreferenced formal parameter
+c:\users\maxko\onedrive\documents\svn\lab 2\lab 2\main.cpp(3): warning C4100: 'argc': unreferenced formal parameter
+c:\users\maxko\onedrive\documents\svn\lab 2\lab 2\main.cpp(63): warning C4189: 'z': local variable is initialized but not referenced
+c:\users\maxko\onedrive\documents\svn\lab 2\lab 2\main.cpp(70): error C4700: uninitialized local variable 'w' used
+c:\users\maxko\onedrive\documents\svn\lab 2\lab 2\main.cpp(71): error C4700: uninitialized local variable 'v' used

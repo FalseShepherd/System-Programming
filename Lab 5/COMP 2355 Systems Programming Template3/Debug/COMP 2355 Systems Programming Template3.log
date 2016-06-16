@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\maxko\onedrive\documents\svn\lab 5\comp 2355 systems programming template3\main.cpp(8): warning C4100: 'argv': unreferenced formal parameter
+c:\users\maxko\onedrive\documents\svn\lab 5\comp 2355 systems programming template3\main.cpp(8): warning C4100: 'argc': unreferenced formal parameter
+c:\users\maxko\onedrive\documents\svn\lab 5\comp 2355 systems programming template3\main.cpp(17): warning C4189: 'x': local variable is initialized but not referenced
+  COMP 2355 Systems Programming Template3.vcxproj -> C:\Users\maxko\OneDrive\Documents\SVN\Lab 5\Debug\COMP 2355 Systems Programming Template3.exe

@@ -1,0 +1,20 @@
+﻿Build started 1/20/2016 11:28:20 PM.
+     1>Project "C:\Users\maxko\OneDrive\Documents\SVN\Lab 6.1\Lab 6.1\Lab 6.1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W4 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Za /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt PackedArray.cpp
+         PackedArray.cpp
+     1>c:\users\maxko\onedrive\documents\svn\lab 6.1\lab 6.1\packedarray.cpp(34): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\maxko\onedrive\documents\svn\lab 6.1\lab 6.1\packedarray.cpp(42): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\maxko\onedrive\documents\svn\lab 6.1\lab 6.1\packedarray.cpp(60): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\maxko\onedrive\documents\svn\lab 6.1\lab 6.1\packedarray.cpp(60): warning C4554: '|' : check operator precedence for possible error; use parentheses to clarify precedence
+     1>c:\users\maxko\onedrive\documents\svn\lab 6.1\lab 6.1\packedarray.cpp(74): warning C4018: '<' : signed/unsigned mismatch
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\maxko\OneDrive\Documents\SVN\Lab 6.1\Debug\Lab 6.1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\maxko\OneDrive\Documents\SVN\Lab 6.1\Debug\Lab 6.1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\maxko\OneDrive\Documents\SVN\Lab 6.1\Debug\Lab 6.1.lib" /MACHINE:X86 Debug\main.obj
+         Debug\PackedArray.obj
+         Debug\TestLab5.obj
+         Lab 6.1.vcxproj -> C:\Users\maxko\OneDrive\Documents\SVN\Lab 6.1\Debug\Lab 6.1.exe
+     1>Done Building Project "C:\Users\maxko\OneDrive\Documents\SVN\Lab 6.1\Lab 6.1\Lab 6.1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.26
